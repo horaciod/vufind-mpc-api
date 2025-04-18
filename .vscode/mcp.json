@@ -1,0 +1,12 @@
+{
+    "servers": {
+        "myvuf2": {
+            "type": "stdio",
+            "command": "mcp",
+            "args": [
+                "run" ,
+                "/datos/mcp/vufind/vufind-mcp.py"
+            ]
+        }
+    }
+}
